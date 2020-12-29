@@ -9,3 +9,4 @@ In my opinion, growth mindset is the ability to continuously learn and absorb kn
 - Always keep an open mind
 - Always pay close attention to the trend of modern technology
 ```
+https://github.com/maximillian47
