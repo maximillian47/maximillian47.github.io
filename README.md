@@ -16,7 +16,7 @@ https://github.com/maximillian47
 -[Class 03 Review](read03notes.md)
 -[Class 04 Review](read04notes)
 -[Class 05 Review](read05notes)
--[Class 06A Review](read06notes)
+-[Class 06A Review](read06anotes)
 -[Class 06B Review](read06bnotes)
 -[Class 07 Review](read07notes)
 -[Class 08 Review](read08notes)
