@@ -12,3 +12,12 @@ In my opinion, growth mindset is the ability to continuously learn and absorb kn
 https://github.com/maximillian47
 
 [Class 01 Review](read01notes.md)
+[Class 02 Review](read02notes)
+[Class 03 Review]
+[Class 04 Review]
+[Class 05 Review]
+[Class 06A Review]
+[Class 06B Review]
+[Class 07 Review]
+[Class 08 Review]
+[Class 09 Review]
