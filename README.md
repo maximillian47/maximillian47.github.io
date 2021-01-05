@@ -10,3 +10,5 @@ In my opinion, growth mindset is the ability to continuously learn and absorb kn
 - Always pay close attention to the trend of modern technology
 ```
 https://github.com/maximillian47
+
+[Class 01 Review](read01notes.md)
