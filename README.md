@@ -12,11 +12,11 @@ In my opinion, growth mindset is the ability to continuously learn and absorb kn
 https://github.com/maximillian47
 
 -[Class 01 Review](read01notes.md)
--[Class 02 Review](read02notes)
+-[Class 02 Review](read02notes.md)
 -[Class 03 Review](read03notes.md)
--[Class 04 Review](read04notes)
--[Class 05 Review](read05notes)
--[Class 06A Review](read06anotes)
--[Class 06B Review](read06bnotes)
--[Class 07 Review](read07notes)
--[Class 08 Review](read08notes)
+-[Class 04 Review](read04notes.md)
+-[Class 05 Review](read05notes.md)
+-[Class 06A Review](read06anotes.md)
+-[Class 06B Review](read06bnotes.md)
+-[Class 07 Review](read07notes.md)
+-[Class 08 Review](read08notes.md)
