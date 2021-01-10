@@ -19,3 +19,7 @@
 * Design is about communication. Visual hierarchy helps visitors understand what you are trying to tell them.
 * You can differentiate between pieces of information using size, color, and style.
 * You can use grouping and similarity to help simplify the information you present. 
+
+* It is best to keep Javascript in its own Javascript file. 
+* The HTML <script> element is used in HTML pages to tell the browser to load the Javascript file (rather like the <link> element can be used to load a CSS file). 
+  
