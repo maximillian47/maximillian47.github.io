@@ -1,22 +1,19 @@
-*Growth Mindset*
-
-In my opinion, growth mindset is the ability to continuously learn and absorb knowledge, while also being adaptive to the constantly-changing work/study environment. 
-
-
-**~~4~~3 reminders:**
-```
-- Always stay hungry for knowledge
-- Always keep an open mind
-- Always pay close attention to the trend of modern technology
+#Code 201 Reading Notes 
 ```
 https://github.com/maximillian47
 
--[Class 01 Review](read01notes.md)
--[Class 02 Review](read02notes.md)
--[Class 03 Review](read03notes.md)
--[Class 04 Review](read04notes.md)
--[Class 05 Review](read05notes.md)
--[Class 06A Review](read06anotes.md)
--[Class 06B Review](read06bnotes.md)
--[Class 07 Review](read07notes.md)
--[Class 08 Review](read08notes.md)
+-[Class 01 Review](201read01notes.md)
+-[Class 02 Review](201read02notes.md)
+-[Class 03 Review](201read03notes.md)
+-[Class 04 Review](201read04notes.md)
+-[Class 05 Review](201read05notes.md)
+-[Class 06 Review](201read06notes.md)
+-[Class 07 Review](201read07notes.md)
+-[Class 08 Review](201read08notes.md)
+-[Class 09 Review](201read09notes.md)
+-[Class 10 Review](201read10notes.md)
+-[Class 11 Review](201read11notes.md)
+-[Class 12 Review](201read12notes.md)
+-[Class 13 Review](201read13notes.md)
+-[Class 14 Review](201read14notes.md)
+-[Class 15 Review](201read15notes.md)
