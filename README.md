@@ -1,7 +1,7 @@
-#Code 201 Reading Notes 
+# Code 201 Reading Notes 
 ```
 https://github.com/maximillian47
-
+*Table of Contents* 
 -[Class 01 Review](201read01notes.md)
 -[Class 02 Review](201read02notes.md)
 -[Class 03 Review](201read03notes.md)
