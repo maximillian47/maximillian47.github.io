@@ -1,13 +1,15 @@
 # Some cool CSS transitions
   * fade in 
-  ```.fade 
+  ```css
+      .fade 
       { 
         opacity: 0.5;
       }
       .fade:hover
       {
         opacity:1;
-      }```
+      }
+  ```
   * change color
   * grow & shrink
   * rotate elements
