@@ -16,5 +16,5 @@ https://github.com/maximillian47
 -[Class 11 Review](201read11notes.md)
 -[Class 12 Review](201read12notes.md)
 -[Class 13 Review](201read13notes.md)
--[Class 14 Review](201read14notes.md)
--[Class 15 Review](201read15notes.md)
+-[Class 14A Review](201read14Anotes.md)
+-[Class 14B Review](201read14Bnotes.md)
